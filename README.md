@@ -7,12 +7,12 @@
  This repo has following files: 
 
 _Simple Text file_
-```javascript
+```
 file1.txt
 ```
  
 _Readme file of the repository._
-```javascript
+```
 README.md
 ```
 
