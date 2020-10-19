@@ -11,7 +11,7 @@ _Simple Text file_
 file1.txt
 ```
  
-_readme file of the repository._
+_Readme file of the repository._
 ```javascript
 README.md
 ```
