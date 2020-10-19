@@ -5,13 +5,14 @@
 
 # test-repo-101
  This repo has following files: 
-```javascript
+
 _Simple Text file_
+```javascript
 file1.txt
 ```
-
-```javascript 
+ 
 _readme file of the repository._
+```javascript
 README.md
 ```
 
