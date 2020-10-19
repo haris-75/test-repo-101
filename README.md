@@ -6,12 +6,12 @@
 # test-repo-101
  This repo has following files: 
 ```javascript
+_Simple Text file_
 file1.txt
 ```
-_Simple Text file_
 
 ```javascript 
+_readme file of the repository._
 README.md
 ```
-_readme file of the repository._
 
